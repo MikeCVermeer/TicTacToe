@@ -1,4 +1,4 @@
-# TicTacToe Kotlin Android Application 
+# TicTacToe Game Python Application 
 
 ![GitHub](https://img.shields.io/badge/license-GPLv3-blue)
 
