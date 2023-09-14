@@ -34,7 +34,7 @@ class TicTacToe:
 
         self.board = ['' for _ in range(9)]
 
-        self.buttons = [tk.Button(self.window, width=20, height=10, command=lambda i=i : self.on_click(i), 
+        self.buttons = [tk.Button(self.window, width=15, height=5, command=lambda i=i : self.on_click(i), 
                                   font=('Helvetica', '20'), bg='sky blue', activebackground='deep sky blue') for i in range(9)]
 
         self.current_player = 'X'
